@@ -20,7 +20,7 @@ class TabHeader extends Component {
                 </a>
             </li>
 
-            </If>
+           </If>
         )
     }
 }

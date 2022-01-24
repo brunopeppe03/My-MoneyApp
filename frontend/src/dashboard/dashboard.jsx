@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 
-import ContentHeader from "../common/templade/contentHeader";
-import Content from "../common/templade/content"
+import ContentHeader from "../common/template/contentHeader";
+import Content from "../common/template/content"
 import { bindActionCreators } from "redux";
 import { getSummary } from "./dashboardActions";
 import ValueBox from "../common/widget/valueBox";
