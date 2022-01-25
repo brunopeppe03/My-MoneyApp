@@ -1,4 +1,5 @@
 import '../common/template/dependencies'
+import '../common/template/dependencies'
 import React from "react";
 
 import SideBar from '../common/template/sideBar';

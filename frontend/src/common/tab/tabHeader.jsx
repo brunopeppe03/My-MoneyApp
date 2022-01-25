@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { bindActionCreators } from 'redux'
 import { connect } from 'react-redux'
 
-import If from "../operador/if";
+import If from "../operator/if";
 import { selectTab } from './tabActions'
 
 class TabHeader extends Component {
